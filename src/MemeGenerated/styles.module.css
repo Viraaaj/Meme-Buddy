@@ -1,0 +1,16 @@
+.container{
+  margin-top: 50px;;
+}
+
+.copy{
+  font-weight: 550;
+  color: black;
+  background-image: linear-gradient(120deg,#2fc665,#89e3a9);
+  margin-top: 30px;
+}
+
+.home{
+  font-weight: 550;
+  color: black;
+  background-image: linear-gradient(120deg,#2fc665,#89e3a9);
+}
